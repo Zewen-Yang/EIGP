@@ -1,4 +1,4 @@
-# Quality or Quantity? Error-Informed Selective Online Learning with Gaussian Processes in Multi-Agent Systems
+# [IEE/CAA JAS] Quality or Quantity? Error-Informed Selective Online Learning with Gaussian Processes in Multi-Agent Systems
 
 ## Installation
 
